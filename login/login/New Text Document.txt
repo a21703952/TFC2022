@@ -1,6 +1,0 @@
-Case: 2
-User: mail.for.test.a1@gmail.com
-Password: Ola123...
-Name: test test
-Image: "C:\Users\fabsilve\OneDrive - Capgemini\Documents\UiPath\login\UiPath.jpg"
-WhiteboardName: Whiteboard
