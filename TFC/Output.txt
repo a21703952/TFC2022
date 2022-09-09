@@ -1,0 +1,18 @@
+﻿Ficheiro de input lido com sucesso
+Escolhido o teste 1.
+Username test test está correto.
+Login realizado com sucesso
+Ficheiro de input lido com sucesso
+Escolhido o teste 2.
+Whiteboard criado e nome alterado
+Ficheiro de input lido com sucesso
+Escolhido o teste 3.
+Channel com o nome -My Channel Name- criado com sucesso.
+Ficheiro de input lido com sucesso
+Escolhido o teste 4.
+Meeting -This is a meeting- criada com sucesso
+Ficheiro de input lido com sucesso
+Escolhido o teste 5.
+Whiteboard criado e nome alterado
+Channel com o nome -My Channel Name- criado com sucesso.
+Meeting -This is a meeting- criada com sucesso

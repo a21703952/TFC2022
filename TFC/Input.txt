@@ -1,0 +1,17 @@
+Escolha de casos
+-> Caso 1 - Login
+-> Caso 2 - Cria um whiteboard
+-> Caso 3 - Cria um channel
+-> Caso 4 - Cria uma meeting
+-> Caso 5 - Multi teste, realiza todos os testes
+
+
+Informações a preencher
+
+Case: 5
+User: mail.for.test.a2@gmail.com
+Password: Ola123...
+Name: test test
+WhiteboardName: Whiteboard
+ChannelName: My Channel Name
+MeetingName: This is a meeting
